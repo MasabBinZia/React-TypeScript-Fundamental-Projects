@@ -1,4 +1,4 @@
-# React-30Days-projects
+# React-30-Days-projects
 30 Day Challenge of Reactjs project using TypeScript.
 
 Reference Repo:- https://github.com/Asabeneh/30-Days-Of-React
@@ -6,7 +6,7 @@ Reference Repo:- https://github.com/Asabeneh/30-Days-Of-React
 Reference YoutubeVids:-https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
 # Introduction
-Great job on committing to the 30-day React programming challenge! Over the next month, you'll gain a comprehensive understanding of React development and become proficient in creating, modifying, and optimizing React applications.
+Here I am committing to the 30-day React programming challenge! Over the next month, I'll gain a comprehensive understanding of React development and become proficient in creating, modifying, and optimizing React applications.
 
 Welcome to the 30DaysOfReact challenge, a comprehensive guide designed to benefit both novice and experienced JavaScript and React developers. This program provides valuable insights into React, a powerful JavaScript library used for developing dynamic and interactive user interfaces.
 
