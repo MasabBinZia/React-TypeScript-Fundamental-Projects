@@ -23,7 +23,7 @@ const Menu: React.FC<MenuProps> = ({ items }) => {
             <div className='item-info'>
               <header className='flex justify-between border-b border-dotted border-black'>
                 <h4 className='mb-2 text-2xl font-semibold'>{title}</h4>
-                <h4 className='price bg-yellow-600 '>${price}</h4>
+                <h4 className='inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-indigo-100 bg-yellow-600 rounded'>${price}</h4>
               </header>
               <p className='item-text mb-0 pt-4'>{desc}</p>
             </div>

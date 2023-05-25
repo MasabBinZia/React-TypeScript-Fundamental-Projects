@@ -31,7 +31,7 @@ function App() {
     <main>
       <section className="menu section py-20">
         <div className="title text-center mb-8">
-          <h2 className='text-6xl underline '>our menu</h2>
+          <h2 className='text-6xl underline font-bold'>our menu</h2>
         </div>
         <Categories categories={categories} filterItems={filterItems} />
         <Menu items={menuItems} />
