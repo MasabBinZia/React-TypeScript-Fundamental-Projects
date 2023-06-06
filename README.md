@@ -7,7 +7,7 @@ Course:-https://www.udemy.com/course/react-tutorial-and-projects-course/?referra
 
 Reference Projects Site:-https://react-projects.netlify.app/
 
-These Projects are bulid with Reactjs and TailwindCss, I am making them from scratch using TypeScript and TailwindCss.
+These Projects are bulid with Reactjs and Css, I am making them from scratch using TypeScript and TailwindCss.
 
 # Introduction
 Here I am committing to the React-TypeScript programming challenge!I'll gain a comprehensive understanding of React development and become proficient in creating, modifying, and optimizing React applications.
