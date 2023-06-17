@@ -1,5 +1,5 @@
 # React-TypeScript-projects
- Reactjs projects using TypeScript.
+ Reactjs projects using TypeScript.O
 
 Reference Repo:- https://github.com/john-smilga/react-projects
 
