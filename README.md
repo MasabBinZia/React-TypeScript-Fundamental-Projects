@@ -5,8 +5,6 @@ Reference Repo:- https://github.com/john-smilga/react-projects
 
 Course:-https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF
 
-Reference Projects Site:-https://react-projects.netlify.app/
-
 These Projects are bulid with Reactjs and Css, I am making them from scratch using TypeScript and TailwindCss.
 
 # Introduction
