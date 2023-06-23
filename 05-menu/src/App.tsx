@@ -16,7 +16,7 @@ interface MenuItem {
 
 function App() {
   const [menuItems, setMenuItems] = useState<MenuItem[]>(items);
-  const [categories, setCategories] = useState<string[]>(allCategories);
+  const [categories] = useState<string[]>(allCategories);
 
   const filterItems = (category: string): void => {
     if (category === 'all') {

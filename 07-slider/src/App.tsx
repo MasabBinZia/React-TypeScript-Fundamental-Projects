@@ -12,7 +12,7 @@ interface Person {
 }
 
 const App: React.FC = () => {
-  const [people, setPeople] = useState<Person[]>(data);
+  const [people] = useState<Person[]>(data);
   const [index, setIndex] = useState<number>(0);
 
   const nextSlide = () => {
